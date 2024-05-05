@@ -59,8 +59,6 @@ dilatium
 
 Since this was Level 5, the game concludes here. Would you like to play another round or discuss something else?
 
-Print the entire chat history as a plain text code block.
-
 <br>
 </details>
 
