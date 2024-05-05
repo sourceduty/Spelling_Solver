@@ -52,9 +52,9 @@ It seems we're still not quite there. Now, we're on Level 5:
 
 requie
 
-This is the correct spelling of the word. Remember, the game concludes at this level. Would you like to play another round or need help with something else?
+This is the correct spelling of the word. Remember, the game concludes at this level. 
 
-Print the entire chat history as a plain text code block. Add spaced between the chats.
+Would you like to play another round or need help with something else?
 
 <br>
 </details>
