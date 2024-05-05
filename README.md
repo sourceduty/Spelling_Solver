@@ -8,7 +8,7 @@ By engaging with Spelling Solver, you can enhance your spelling abilities in a f
 
 > Alex: *"This custom GPT spelling game is a great tool for practicing spelling skills."*
 
-> "This game appears common but is uniquely instructed." 
+> *"This game appears common but is uniquely instructed."*
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
