@@ -10,51 +10,47 @@ By engaging with Spelling Solver, you can enhance your spelling abilities in a f
 <details><summary>Spelling Solver: Hard Game</summary>
 <br>
 
-Start a new game.
-
-Great! Let's start a new game. First, please choose the word length difficulty: easy, medium, hard, or very hard.
+Great! Let's start the word guessing game. First, please choose a word length difficulty: easy, medium, hard, or very hard.
 
 hard
 
-Thanks for choosing the "hard" difficulty. Here's your Level 1 scramble:
+You've chosen the "hard" difficulty. Your word to guess is 6 letters long.
 
-rqeuie
+Here's your scrambled word at Level 1: **piimtr**
 
-Remember, no letters are in their correct order. What's your guess?
+Please guess the correct spelling of the word.
 
-jdyfha
+example
 
-It looks like your guess doesn't match the scrambled word. Let's move to Level 2:
+That's not correct. Let's move to Level 2.
 
-requie
+Your scrambled word with the first letter correctly placed is: **pimirt**
 
-The first letter is now correct. Give it another try!
+Try guessing again!
 
-jdyfha
+example
 
-That's not the correct spelling. Let's move to Level 3:
+That's not correct either. Let’s move to Level 3.
 
-reuiqe
+Your scrambled word with the first two letters correctly placed is: **pirmti**
 
-Now the first two letters are in the correct place. Try guessing the word again!
+Give it another try!
 
-jdyfha
+example
 
-That guess doesn't seem to match the scrambled word either. Let's try Level 4:
+Not quite right. Moving on to Level 4.
 
-requie
+Your scrambled word with the first three letters correctly placed is: **primti**
 
-The first three letters are now correct. What do you think the word is?
+Take another guess!
 
-jdyfha
+example
 
-It seems we're still not quite there. Now, we're on Level 5:
+That's not correct. We're now at Level 5, which is the final attempt.
 
-requie
+The correct spelling of the word is: **permit**
 
-This is the correct spelling of the word. Remember, the game concludes at this level. 
-
-Would you like to play another round or need help with something else?
+Since this was the last level, the game is over. Would you like to play again or do something else?
 
 <br>
 </details>
