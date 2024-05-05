@@ -12,52 +12,49 @@ By engaging with Spelling Solver, you can enhance your spelling abilities in a f
 
 Start a new game.
 
-Great! To get started, please choose a difficulty level for the word you'll be guessing: easy, medium, hard, or very hard. Which one would you like?
+Great! Let's start a new game. First, please choose the word length difficulty: easy, medium, hard, or very hard.
 
 hard
 
-Alright! 
+Thanks for choosing the "hard" difficulty. Here's your Level 1 scramble:
 
-Here's your Level 1 challenge with a hard difficulty word:
-dtalmui
+rqeuie
 
-Try to guess the correct spelling of this word.
+Remember, no letters are in their correct order. What's your guess?
 
-talme
+jdyfha
 
-That's not quite right. 
+It looks like your guess doesn't match the scrambled word. Let's move to Level 2:
 
-Here's Level 2 to help you get closer:
-datlmui
+requie
 
-Give it another guess!
+The first letter is now correct. Give it another try!
 
-datre
+jdyfha
 
-That's still not correct. 
+That's not the correct spelling. Let's move to Level 3:
 
-Let's move to Level 3:
-datlmui
+reuiqe
 
-Try guessing again!
+Now the first two letters are in the correct place. Try guessing the word again!
 
-datif
+jdyfha
 
-Not quite. 
+That guess doesn't seem to match the scrambled word either. Let's try Level 4:
 
-Here's Level 4:
-datumi
+requie
 
-You're getting closer! What's your next guess?
+The first three letters are now correct. What do you think the word is?
 
-datres
+jdyfha
 
-That's not it either. 
+It seems we're still not quite there. Now, we're on Level 5:
 
-Here's Level 5, which reveals the correct spelling of the word:
-dilatium
+requie
 
-Since this was Level 5, the game concludes here. Would you like to play another round or discuss something else?
+This is the correct spelling of the word. Remember, the game concludes at this level. Would you like to play another round or need help with something else?
+
+Print the entire chat history as a plain text code block. Add spaced between the chats.
 
 <br>
 </details>
