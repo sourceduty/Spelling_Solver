@@ -12,6 +12,8 @@ By engaging with Spelling Solver, you can enhance your spelling abilities in a f
 ### Related Links
 
 [Fillable Quiz](https://github.com/sourceduty/Fillable_Quiz)
+<br>
+[Word Map](https://chatgpt.com/g/g-fUiD2XBka-word-map)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
